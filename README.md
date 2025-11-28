@@ -37,9 +37,9 @@
 
 ### ⭐ GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaSalah220&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaSalahAbdallah&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaSalah220&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaSalahAbdallah&hide_progress=true)
 
 
 
@@ -64,6 +64,6 @@
 
 ### 📬 Contacts
 
-- 📧 **Email:** mo20003173@gmial.com
-- 💼 **Linked in:** www.linkedin.com/in/mostafa-salah-abdallah-2867762a1
+- 📧 **Email:** mostafasalahabdallah1@gmail.com
+- 💼 **Linked in:** www.linkedin.com/in/mostafa-salah-abdallah-b57930396
 ---
