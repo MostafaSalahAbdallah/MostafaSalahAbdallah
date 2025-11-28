@@ -36,9 +36,9 @@
 
 ### ⭐ GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiusername=MostafaSalahAbdallah&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaSalahAbdallah&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaSalahAbdallah&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaSalahAbdallah&stats_format=bytes)
 
 
 
