@@ -22,28 +22,23 @@
 
 ---
 
-### 🧠 Skills & Tools
+### 💻 Tech Stack:
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="50" height="50"/>
-   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="arduino" width="50" height="50"/>
-  <img src="https://cdn.prod.website-files.com/627fe3133bae75e7bfbb9b2a/66922a2f5485bcd665857545_32a03aee0c76419ec5bde950a62883bc-p-500.png" alt="sql server" width="80" height="80"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="50" height="50"/>
-</p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
 
 ### ⭐ GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaSalahAbdallah&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaSalahAbdallah&stats_format=bytes)
-
+![](https://github-readme-stats.vercel.app/api?username=MostafaSalahAbdallah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MostafaSalahAbdallah&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaSalahAbdallah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MostafaSalahAbdallah&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
 ### ⚡ إقتــــــباس - 
 
 
@@ -59,10 +54,4 @@
   "Talk is cheap, show me the code" - Linus Torvalds
 </p>
 
----
-
-### 📬 Contacts
-
-- 📧 **Email:** mostafasalahabdallah1@gmail.com
-- 💼 **Linked in:** www.linkedin.com/in/mostafa-salah-abdallah-b57930396
 ---
