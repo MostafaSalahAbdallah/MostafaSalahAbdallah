@@ -18,8 +18,7 @@
   - C++, C
 - 🔧 Currently learning and building small projects to sharpen my skills.
 - 💬 I enjoy problem-solving, and making things easier.
-- 🌱 Always looking for opportunities to grow and collaborate!
-- I've built many projects using Arduino in university, and my final year project was a smart PV inverter 
+- 🌱 Always looking for opportunities to grow and collaborate! 
 
 ---
 
